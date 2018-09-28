@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2E6E-E12D
+
+ Directory of C:\Users\AKASH\Desktop\my project
+
+29-09-2018  02:14    <DIR>          .
+29-09-2018  02:14    <DIR>          ..
+29-09-2018  02:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,304,368,640 bytes free
